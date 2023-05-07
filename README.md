@@ -4,10 +4,13 @@ Project - P.A.I. 2.O
 
 Synopsis:
 Our project is P.A.I. Bot, a Personal Artificial Intelligence Bot. The aim of the project is to create a multifunctional AI bot that can behave as an advisor, friend, family member, mentor, and more in everyday life. Our solution will combine the power of Artificial Intelligence and Natural Language Processing to create a user-friendly and interactive bot that can understand and respond to user queries, provide recommendations, solve problems, and much more.
+
 Introduction:
 In today's fast-paced world, people are looking for an intelligent and reliable assistant that can help them with their daily tasks. With the advent of AI, it is now possible to create a virtual assistant that can interact with humans in a more human-like way. Our project is focused on creating an AI bot that can understand and respond to human queries, provide recommendations, solve problems, and much more. The P.A.I. Bot will be designed to provide a personalized experience to each user, based on their preferences and requirements.
+
 Problem Statement:
 There is a need for an intelligent assistant that can help people with their daily tasks. While there are many solutions available, most of them are either too complicated or too expensive. Also, many existing solutions are not personalized and fail to provide a satisfactory experience to users.
+
 Available Solution:
 There are various AI-based virtual assistants available in the market such as Google Assistant, Amazon Alexa, and Apple Siri. However, most of these solutions are not personalized and do not provide a satisfactory experience to users.
 
@@ -22,6 +25,7 @@ Tasks of P.A.I. Bot:
 5.	Time Management: P.A.I. Bot will be able to create a daily schedule for the user and remind them of important events.
 6.	Creative Tasks: P.A.I. Bot will be able to draw colourful pictures, take search input using image searching, and perform other creative tasks.
 7.	Communication: P.A.I. Bot will be able to communicate with the user in a natural language.
+
 Uniqueness:
 The P.A.I. Bot is unique in the sense that it will be personalized and interactive, unlike other existing virtual assistants. The P.A.I. Bot will be able to provide a satisfactory experience to users by understanding their preferences and requirements.
 Tools and Technologies Used:
